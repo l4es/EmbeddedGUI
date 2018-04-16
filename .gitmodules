@@ -1,3 +1,15 @@
 [submodule "UGUI"]
 	path = UGUI
 	url = git@github.com:achimdoebler/UGUI.git
+[submodule "1971_Game"]
+	path = 1971_Game
+	url = git@github.com:sarthi92/1971_Game.git
+[submodule "MKS-TFT"]
+	path = MKS-TFT
+	url = git@github.com:robotsrulz/MKS-TFT.git
+[submodule "lvgl"]
+	path = lvgl
+	url = https://github.com/littlevgl/lvgl.git
+[submodule "glcd"]
+	path = glcd
+	url = https://github.com/andygock/glcd.git
