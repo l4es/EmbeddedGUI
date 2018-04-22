@@ -16,3 +16,12 @@
 [submodule "EasyGUI"]
 	path = EasyGUI
 	url = https://github.com/MaJerle/EasyGUI
+[submodule "Demo/STM32_ChibiOS_uGFX_UC1601s_RDX0154"]
+	path = Demo/STM32_ChibiOS_uGFX_UC1601s_RDX0154
+	url = https://github.com/pashamray/STM32_ChibiOS_uGFX_UC1601s_RDX0154.git
+[submodule "Demo/STM32_ChibiOS_uGFX_PCD8544"]
+	path = Demo/STM32_ChibiOS_uGFX_PCD8544
+	url = https://github.com/pashamray/stm32_chibios_ugfx_pcd8544.git
+[submodule "Demo/STM32_ChibiOS_uGFX_KS0108"]
+	path = Demo/STM32_ChibiOS_uGFX_KS0108
+	url = https://github.com/pashamray/stm32_chibios_ugfx_ks0108.git
