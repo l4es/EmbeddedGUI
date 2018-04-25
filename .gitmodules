@@ -25,3 +25,9 @@
 [submodule "Demo/STM32_ChibiOS_uGFX_KS0108"]
 	path = Demo/STM32_ChibiOS_uGFX_KS0108
 	url = https://github.com/pashamray/stm32_chibios_ugfx_ks0108.git
+[submodule "eGUI"]
+	path = eGUI
+	url = https://github.com/codeauroraforum/eGUI.git
+[submodule "D4CD"]
+	path = D4CD
+	url = https://github.com/Gargy007/D4CD.git
