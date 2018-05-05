@@ -31,3 +31,6 @@
 [submodule "D4CD"]
 	path = D4CD
 	url = https://github.com/Gargy007/D4CD.git
+[submodule "Demo/ChibiOS-LCD-Driver"]
+	path = Demo/ChibiOS-LCD-Driver
+	url = https://github.com/miguelmoreto/ChibiOS-LCD-Driver.git
