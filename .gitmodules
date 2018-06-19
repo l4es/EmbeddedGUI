@@ -34,3 +34,6 @@
 [submodule "Demo/ChibiOS-LCD-Driver"]
 	path = Demo/ChibiOS-LCD-Driver
 	url = https://github.com/miguelmoreto/ChibiOS-LCD-Driver.git
+[submodule "wex"]
+	path = wex
+	url = https://github.com/NREL/wex.git
